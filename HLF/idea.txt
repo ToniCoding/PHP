@@ -1,0 +1,6 @@
+Planteamiento de datos:
+    - [ARRAY] Combinaciones de cuadrículas (10x10=100 cuadrículas).
+    - [VARIABLE] Localización del barco. Se generará un valor del 0 al 99, se buscará el index en el array de cuadrículas y será donde este el barco.
+    - [VARIABLE] Nombre del jugador. X
+    - [FUNCION] comprobarSiGolpe(usuario, cuadrícula) - Comprueba si el golpe ha sido en el barco y responde a ello.
+    - [FUNCION] generarCuadricula(cuadricula) - Genera un array de cuadrículas que se almacena en una variable.
