@@ -5,10 +5,9 @@ Hundir La Flota es un minijuego programado en PHP el cual se basa en el clásico
 tendrás que ejecutar primeramente el archivo *"trigger.php"* que sirve para que se genere el tablero virtual de 100 casillas y se le asigne una de ellas al
 barco *(de momento sólo hay uno en todo el mapa)*. Tras ello, simplemente acude a *"index.php"* para comenzar a jugar.
 
-##Descripción larga
-######Inicializar el juego
-Antes de comenzar a jugar, se necesita ejecutar el archivo *"trigger.php"* que es el que llamará al archivo *"gen.php"* que contiene las funciones que hacen posible generar
-las cien casillas necesarias para el juego. El archivo *"trigger.php"* también llamará a la función residente en *"gen.php"* que permite al programa leer las casillas
+## Descripción larga
+###### Inicializar el juego
+Antes de comenzar a jugar, se necesita ejecutar el archivo *"trigger.php"* que es el que llamará al archivo *"gen.php"* que contiene las funciones que hacen posible generar las cien casillas necesarias para el juego. El archivo *"trigger.php"* también llamará a la función residente en *"gen.php"* que permite al programa leer las casillas
 generadas y asignar, de manera aleatoria, una al barco el cual hay que destruir.
 
 ###### Comenzar a jugar
