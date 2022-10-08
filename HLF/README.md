@@ -11,7 +11,7 @@ Antes de comenzar a jugar, se necesita ejecutar el archivo *"trigger.php"* que e
 generadas y asignar, de manera aleatoria, una al barco el cual hay que destruir.
 
 ###### Comenzar a jugar
-Tras haber realizado el proceso de inicialización del juego, todos los usuarios podrán acceder al archivo "index.php" en el cual hay un formulario *(<form> tag)* en el
+Tras haber realizado el proceso de inicialización del juego, todos los usuarios podrán acceder al archivo "index.php" en el cual hay un formulario en el
 cual podrán empezar a introducir casillas para intentar hundir el barco. La sintaxis de la casilla debe ser: *letra[A-J]número[1-10]*. De lo contrario el programa
 simplemente ignorará lo que haya introducido el jugador y lanzará un mensaje como si se hubiese **equivocado** de casilla.
 
