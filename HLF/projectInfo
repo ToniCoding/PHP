@@ -19,4 +19,4 @@ simplemente ignorará lo que haya introducido el jugador y lanzará un mensaje c
 ######Limitaciones
 - El proceso de inicialización *no* es automático.
 - Las casillas introducidas por el jugador deben contener la letra **MAYÚSCULA** no la minúscula dado que el programa aún *no está preparado para convertir el input
-del usuario a mayúscula*.
+del usuario a mayúscula*. 
